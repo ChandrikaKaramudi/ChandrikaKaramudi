@@ -1,6 +1,6 @@
 ## Hi👋, I am Chandrika Karamudi
 # 💫 About Me:
-🎓 Final-year CSE student passionate about coding, AI, and web development.<br>🌱 Currently learning Python & Machine Learning.<br>🤝 Open to collaborating on innovative tech projects.<br>
+<br>🎓 I'm currently working on: Academic projects related to Machine Learning and Web Development.<br><br>🤝 I'm looking to collaborate on: Open-source projects, beginner-friendly ML or web apps, and research-based coding projects.<br><br>🌱 I'm currently learning: Python, Machine Learning, and Full Stack Web Development (HTML, CSS, JavaScript, React).<br><br>💬 Ask me about: C, Python, GitHub basics, or how I manage college projects using tech tools.<br><br>⚡ Fun fact: I enjoy exploring new technologies and turning small ideas into creative coding projects!<br><br> ✉  Reach me at: chandukaramudi@gmail.com<br><br>
 
 
 ## 🌐 Socials:
